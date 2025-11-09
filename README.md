@@ -1,2 +1,2 @@
 # code-repeater
-Go download Code Repeater at code-repeater.vercel.app !
+Website is down. Discontinued, if you want to download, download from this github.
